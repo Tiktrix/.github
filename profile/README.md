@@ -1,6 +1,6 @@
 ## Miracleplay
 
-![Miracleplay Header](header.jpg)
+![Miracleplay Header](header.png)
 
 ## MIRACLE PLAY aims to grow into the world's most fair and transparent.
 
@@ -25,7 +25,7 @@
 - [MEDIUM] https://medium.com/@miracleplay
 - [TWITTER] https://twitter.com/miracleplaygg
 
-![Miracleplay footer](bottom.jpg)
+![Miracleplay footer](bottom.png)
 
 ---
 
