@@ -2,13 +2,27 @@
 
 ![Miracleplay Header](header.png)
 
+## 📊 Team Activity Metrics
+
+This repository uses **GitHub Metrics** to automatically track and visualize our team's development activity — including commits, pull requests, issues, languages used, and contributions across repositories.
+
+> Updated daily (Asia/Seoul timezone)
+
+![MiraclePlay Metrics](https://github.com/MiraclePlayTeam/metrics/blob/main/github-metrics.svg)
+
+## 📝 Latest Release Notes
+
+<iframe src="https://www.notion.so/Miracleplay-Release-Note-211ead5a05e68082af5de648cf351ef2" width="100%" height="600" frameborder="0"></iframe>
+
+---
+
 ## MIRACLE PLAY aims to grow into the world's most fair and transparent.
 
 ### Blockchain based Esports Online game Platform. MIRACLE PLAY delivers entertainment and value in its own unique ways.
 
 ## Our Vision
 
-#### “As the world's fairest and most transparent Blockchain-based Esports Online Game Platform, we grow to deliver fun and value in our own unique ways through Miracle Play.”
+#### "As the world's fairest and most transparent Blockchain-based Esports Online Game Platform, we grow to deliver fun and value in our own unique ways through Miracle Play."
 
 ## About Miracleplay
 
@@ -29,21 +43,9 @@
 
 ---
 
-# 📊 MiraclePlayTeam Metrics
-
-This repository uses **GitHub Metrics** to automatically track and visualize our team’s development activity — including commits, pull requests, issues, languages used, and contributions across repositories.
-
-> Updated daily (Asia/Seoul timezone)
-
-![MiraclePlay Metrics](https://github.com/MiraclePlayTeam/metrics/blob/main/github-metrics.svg)
-
----
-
 ## 🛠 Powered By
 
 - GitHub Actions
 - [lowlighter/metrics](https://github.com/lowlighter/metrics)
 - Automated activity tracking
 - Fully customizable visualization options
-
----
