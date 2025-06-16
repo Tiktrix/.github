@@ -12,7 +12,7 @@ This repository uses **GitHub Metrics** to automatically track and visualize our
 
 ## 📝 Latest Release Notes
 
-<iframe src="https://www.notion.so/Miracleplay-Release-Note-211ead5a05e68082af5de648cf351ef2" width="100%" height="600" frameborder="0"></iframe>
+> [View our latest release notes on Notion](https://www.notion.so/Miracleplay-Release-Note-211ead5a05e68082af5de648cf351ef2)
 
 ---
 
