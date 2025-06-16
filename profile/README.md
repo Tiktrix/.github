@@ -2,6 +2,10 @@
 
 ![Miracleplay Header](header.png)
 
+## 📝 Latest Release Notes
+
+> [View our latest release notes on Notion](https://www.notion.so/Miracleplay-Release-Note-211ead5a05e68082af5de648cf351ef2)
+
 ## 📊 Team Activity Metrics
 
 This repository uses **GitHub Metrics** to automatically track and visualize our team's development activity — including commits, pull requests, issues, languages used, and contributions across repositories.
@@ -9,10 +13,6 @@ This repository uses **GitHub Metrics** to automatically track and visualize our
 > Updated daily (Asia/Seoul timezone)
 
 ![MiraclePlay Metrics](https://github.com/MiraclePlayTeam/metrics/blob/main/github-metrics.svg)
-
-## 📝 Latest Release Notes
-
-> [View our latest release notes on Notion](https://www.notion.so/Miracleplay-Release-Note-211ead5a05e68082af5de648cf351ef2)
 
 ---
 
