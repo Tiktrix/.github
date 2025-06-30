@@ -1,3 +1,5 @@
+## TikTrix
+
 ## 📊 Team Activity Metrics
 
 This repository uses **GitHub Metrics** to automatically track and visualize our team's development activity — including commits, pull requests, issues, languages used, and contributions across repositories.
